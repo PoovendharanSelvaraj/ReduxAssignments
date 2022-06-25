@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "todo": "buy milk",
+      "status": false,
+      "id": 12
+    },
+    {
+      "todo": "buy water",
+      "status": false,
+      "id": 13
+    },
+    {
+      "todo": "buy drinks",
+      "status": false,
+      "id": 14
+    }
+  ]
+}
